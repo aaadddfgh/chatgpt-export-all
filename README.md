@@ -1,5 +1,5 @@
-# chatgpt-export-all[Deprecated]
-**chatgpt offcially support exporting you data, using that instead**
+# [Deprecated]chatgpt-export-all
+**chatgpt offcially support exporting you data, using that instead**  
 export all you chat on chatGPT to markdown into a zip file(can not set number of chats exported), can help you archive your all chats  
 ## CATION
 1. Not tested on plus version  
